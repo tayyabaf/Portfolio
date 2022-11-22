@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.container-fluid{
+    background-image: url(/images/back.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1, h3, p, h4{
+    color: antiquewhite;
+    text-align: center;
+}
+
+
+
+
+.tel-link, .e-mail{
+    color:black;
+    margin:0 auto;
+    padding:1%;
+    width:100%;
+    text-align: center;
+    border-radius: 1em;
+}
+
+.tel-link a, .e-mail a{
+    text-decoration: none;
+    display: block;
+    font-size:large;
+    color:rgb(106, 135, 220)}
+
+    .row{
+        color: darkgray;
+    }
+
+    form{
+        align-items: center;
+        align-content: center;
+    }
+
+
+
